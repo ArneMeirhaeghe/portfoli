@@ -54,5 +54,18 @@
     "liveUrl": "/images/projects/KSA-wireframes.pdf",
     "repoUrl": "",
     "images": ["/images/projects/Ksa_Jos_Transp.png"]
+  }, {
+    "id": "portfolio",
+    "title": "Persoonlijk Portfolio",
+    "type": "hobby",
+    "year": 2025,
+    "summary": {
+      "nl": "Portfolio website om mijn projecten en vaardigheden te tonen.",
+      "en": "Portfolio website to showcase my projects and skills."
+    },
+    "tech": ["React", "lucide icons" ],
+    "liveUrl": "https://portfoli-p0vi.onrender.com/",
+    "repoUrl": "",
+    "images": ["/images/projects/portrait.jpg"]
   }
 ]
