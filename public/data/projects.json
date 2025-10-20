@@ -65,7 +65,21 @@
     },
     "tech": ["React", "lucide icons" ],
     "liveUrl": "https://portfoli-p0vi.onrender.com/",
-    "repoUrl": "",
+    "repoUrl": "https://github.com/ArneMeirhaeghe/portfoli.git",
     "images": ["/images/projects/portrait.jpg"]
-  }
+  },{
+  "id": "eindwerk-VTI",
+  "title": "Automatisering van rolstoel",
+  "type": "school",
+  "year": 2018,
+  "summary": {
+    "nl": "Rolstoel automatisch laten rijden met afstandsbediening",
+    "en": "Make the wheelchair drive automatically with a remote control"
+  },
+  "tech": ["C++", "WiFi beacons", "Elektronica"],
+  "liveUrl": "/images/projects/rolstoel.jpg",
+  "repoUrl": "",
+  "images": ["/images/projects/rolstoel.jpg"]
+}
+
 ]

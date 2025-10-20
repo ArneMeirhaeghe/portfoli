@@ -73,7 +73,26 @@
         { "nl": "Organiseerde kampen en evenementen (80+ deelnemers)", "en": "Organized camps and events (80+ participants)" },
         { "nl": "Verantwoordelijk voor planning, veiligheid en communicatie", "en": "Responsible for planning, safety and communication" }
       ]
-    }
+    },{
+    "titel": { "nl": "Hoofdanimator – Speelplein Deinze", "en": "Head Animator – Deinze Playground" },
+    "bedrijf": { "nl": "Speelpleinwerking Deinze", "en": "Playground Deinze" },
+    "periode": { "nl": "2015 – 2025", "en": "2015 – 2015" },
+    "impact": [
+      { "nl": "6 jaar actief als hoofdanimator tijdens zomervakanties", "en": "6 years active as head animator during summer holidays" },
+      { "nl": "Begeleidde kinderen en jongeren van verschillende leeftijden", "en": "Guided children and youth of various ages" },
+      { "nl": "Organiseerde creatieve en sportieve activiteiten", "en": "Organized creative and sports activities" }
+    ]
+  },
+  {
+    "titel": { "nl": "Student – VTI Deinze", "en": "Student – VTI Deinze" },
+    "bedrijf": { "nl": "VTI Deinze", "en": "VTI Deinze" },
+    "periode": { "nl": "2012 – 2018", "en": "2012 – 2018" },
+    "impact": [
+      { "nl": "6 jaar opleiding Elektriciteit-Elektronica", "en": "6-year program in Electricity and Electronics" },
+      { "nl": "Ontwikkelde technische kennis en logisch probleemoplossend denken", "en": "Developed technical knowledge and logical problem-solving skills" },
+      { "nl": "Basis gelegd voor latere interesse in technologie en ontwikkeling", "en": "Built the foundation for later interest in technology and development" }
+    ]
+  }
   ],
   "hobbies": [
     "Gitaar spelen",
