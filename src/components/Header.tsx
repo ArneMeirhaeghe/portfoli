@@ -9,7 +9,6 @@ const links = [
   { href: '#skills', key: 'nav_skills' },
   { href: '#projects', key: 'nav_projects' },
   { href: '#experience', key: 'nav_experience' },
-  { href: '#values', key: 'nav_values' },
   { href: '#contact', key: 'nav_contact' }
 ]
 

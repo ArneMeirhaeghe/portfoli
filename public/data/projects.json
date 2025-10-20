@@ -80,6 +80,19 @@
   "liveUrl": "/images/projects/rolstoel.jpg",
   "repoUrl": "",
   "images": ["/images/projects/rolstoel.jpg"]
+},{
+  "id": "werk-VTI",
+  "title": "Zelfspelende drum",
+  "type": "school",
+  "year": 2017,
+  "summary": {
+    "nl": "Drum die werd bediend via een app en zelf kon spelen",
+    "en": "Drum controlled by an app that could play automatically"
+  },
+  "tech": ["Flowcode", "Eagle", "Elektronica"],
+  "liveUrl": "/images/projects/drum.jpg",
+  "repoUrl": "",
+  "images": ["/images/projects/drum.jpg"]
 }
 
 ]
